@@ -6,23 +6,19 @@ O foco do projeto é **educacional e comunitário**.
 
 ---
 
-## 📄 Formato de distribuição
+## 📄 Distribuição do Material
 
-O conteúdo é disponibilizado **publicamente em formato PDF**, garantindo:
+Este repositório disponibiliza **exclusivamente os PDFs finais** da documentação.
 
-- acesso livre ao material
-- preservação da autoria
-- integridade editorial
-- facilidade de leitura e distribuição
+Os arquivos-fonte (LaTeX, imagens e scripts internos) **não fazem parte do repositório público**, como forma de:
 
-Os **arquivos-fonte editáveis** (`.tex`, estilos, fontes, arte e estrutura interna) **não fazem parte do repositório público neste momento**.
+- preservar a integridade didática do material
+- evitar distribuições fragmentadas ou modificadas sem contexto
+- manter uma curadoria técnica consistente do conteúdo
 
-Essa decisão visa equilibrar:
-- compartilhamento de conhecimento  
-- proteção contra reutilização indevida e reempacotamento não autorizado  
-- sustentabilidade do projeto  
+Os PDFs oficiais encontram-se na pasta:
 
-Compartilhar o conteúdo **não implica compartilhar todo o meio de produção**.
+📁 `/PDF`
 
 ---
 
