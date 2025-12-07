@@ -1,60 +1,145 @@
-# Documentação Completa do M.U.G.E.N — Português (PT-BR)
+# M.U.G.E.N – Documentação Completa em Português (PT-BR)
 
-Este repositório contém uma **compilação didática e organizada da documentação do M.U.G.E.N**, escrita em português e voltada à comunidade brasileira (e lusófona).
-
-O objetivo não é substituir a documentação oficial da Elecbyte, mas **torná-la mais acessível, estruturada e prática**, especialmente para quem está começando ou quer evoluir com mais consciência.
-
-📘 Baseado na documentação oficial Elecbyte  
-🌎 Focado na comunidade MUGEN do Brasil  
-🎮 WinMUGEN / MUGEN 1.0  
-❌ Sem fins lucrativos  
-✅ Conhecimento livre e compartilhável  
+📘 **Guia técnico, didático e comunitário para criação de conteúdo no M.U.G.E.N**  
+Personagens • Stages • IA • Storyboards • Ferramentas
 
 ---
 
-## 🎯 Objetivos do projeto
+## 📌 Sobre este projeto
 
-- Tornar o M.U.G.E.N mais compreensível para iniciantes
-- Reduzir erros comuns na criação de personagens e cenários
-- Organizar conceitos espalhados da documentação original
-- Servir como material de estudo, curso e consulta rápida
-- Fortalecer a comunidade brasileira de MUGEN
+Este repositório tem como objetivo **reunir, organizar e traduzir para o português** a documentação essencial do **M.U.G.E.N**, baseada na documentação oficial da Elecbyte, em experiências práticas da comunidade e em materiais educativos modernos.
 
-Este projeto nasceu da prática real: criar chars, criar stages, errar, aprender e documentar.
+O foco é **didático e progressivo**, servindo tanto para:
+- iniciantes absolutos no MUGEN  
+- criadores intermediários  
+- usuários avançados que querem uma referência organizada  
 
----
-
-## 📚 Estrutura do conteúdo
-
-O material está organizado de forma progressiva e didática:
-
-- **Fundamentos do M.U.G.E.N**
-  - Introdução ao engine
-  - Coordinate Space
-  - Localization
-  - Fonts
-
-- **Criação de Personagens**
-  - CNS (Character Definition)
-  - State Controls (SCTRLs)
-  - Triggers
-  - Loop Guide
-  - Artificial Intelligence (AIR)
-
-- **Elementos Visuais**
-  - Sprites (SPR)
-  - SPRMake2
-  - Backgrounds (BGS)
-
-- **Conteúdo Especial**
-  - Storyboards (intros, endings, telas)
-
-- **Apêndices**
-  - Ferramentas
-  - Troubleshooting
-  - Recursos externos
+🚫 **Sem fins lucrativos**  
+🎓 **Voltado à comunidade**  
+🇧🇷 **Produzido em Português (PT-BR)**
 
 ---
 
-## 🗂 Estrutura do repositório
+## 🎮 O que é M.U.G.E.N?
 
+M.U.G.E.N é um engine 2D de luta desenvolvido pela **Elecbyte**, extremamente flexível, que permite a criação completa de:
+- personagens  
+- cenários (stages)  
+- interfaces  
+- animações  
+- inteligência artificial  
+- storyboards (intros, endings, cutscenes)
+
+Este projeto **não é oficial da Elecbyte** e não substitui a documentação original — ele **complementa e facilita o aprendizado**.
+
+---
+
+## 🧱 Estrutura da Documentação
+
+A documentação está organizada em **partes temáticas**, inspiradas na estrutura oficial do MUGEN, porém com um **fluxo mais pedagógico**:
+
+### 🔹 Fundamentos do M.U.G.E.N
+- Introdução ao engine
+- Coordinate Space
+- Localization
+- Conceitos-base do funcionamento interno
+
+### 🔹 Criação de Personagens
+- Estrutura de arquivos (`.def`, `.cns`, `.air`, `.cmd`)
+- State Controls
+- Triggers
+- Loop Guide
+- Inteligência Artificial (AIR)
+
+### 🔹 Elementos Visuais
+- Sprites (`.spr`)
+- Ferramentas como SPRMake2
+- Fonts
+- Backgrounds (stages e BGS)
+
+### 🔹 Conteúdo Especial
+- Storyboards
+- Intros, win screens e endings
+- Organização visual avançada
+
+### 🔹 Apêndices
+- Ferramentas recomendadas
+- Recursos úteis
+- Troubleshooting (erros comuns e soluções)
+- Glossário técnico
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **LaTeX (classe `book`)**
+- **XeLaTeX** (quando necessário)
+- **TikZ** (diagramas e ilustrações)
+- **Git + GitHub** (versionamento)
+- **Overleaf** (edição colaborativa)
+
+---
+
+## 🌐 Onde esse material será disponibilizado
+
+- 📂 **GitHub** – versionamento e código-fonte  
+- 🎮 **MUGEN Archive** – material de apoio à comunidade  
+- 📄 **PDF** – leitura offline e referência  
+
+👉 Conta no MUGEN Archive:  
+https://mugenarchive.com
+
+👉 GitHub do autor:  
+https://github.com/tutorfree
+
+---
+
+## 🤝 Contribuições
+
+Este projeto é **aberto à comunidade**.
+
+Formas de contribuir:
+- correções de texto
+- melhorias didáticas
+- exemplos práticos
+- revisão técnica
+- traduções complementares
+
+Sinta-se à vontade para abrir **issues** ou **pull requests**.
+
+---
+
+## ⚖️ Licença
+
+Este trabalho está licenciado sob a licença:
+
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International**  
+
+Ou seja, você pode:
+- ✅ compartilhar
+- ✅ adaptar
+- ✅ remixar
+
+Desde que:
+- cite o autor
+- não use para fins comerciais
+- mantenha a mesma licença
+
+📄 Veja o arquivo [LICENSE](LICENSE) para detalhes completos.
+
+---
+
+## ❤️ Nota final
+
+Este material nasce da ideia de que **conhecimento técnico deve ser acessível**, especialmente em comunidades criativas como a do M.U.G.E.N.
+
+Se este conteúdo te ajudou de alguma forma:
+- compartilhe
+- contribua
+- ensine outra pessoa
+
+A comunidade cresce quando o conhecimento circula.
+
+---
+
+**Feito pela comunidade, para a comunidade.**
