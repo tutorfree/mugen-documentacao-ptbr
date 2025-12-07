@@ -1,0 +1,59 @@
+# =====================================
+# Sistema / Ambiente
+# =====================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =====================================
+# Editores / IDEs
+# =====================================
+.vscode/
+.idea/
+*.swp
+*.bak
+*.tmp
+
+# =====================================
+# LaTeX — arquivos temporários e fontes
+# =====================================
+
+# Fontes LaTeX (não versionadas)
+src/
+*.tex
+
+# Arquivos auxiliares gerados pelo LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.xdv
+*.bbl
+*.blg
+
+# =====================================
+# PDFs intermediários
+# (os PDFs finais devem ficar apenas em /PDF)
+# =====================================
+*.pdf
+!/PDF/
+!/PDF/**/*.pdf
+
+# =====================================
+# Build / cache
+# =====================================
+build/
+dist/
+
+# =====================================
+# Outros
+# =====================================
+*.zip
+*.rar
