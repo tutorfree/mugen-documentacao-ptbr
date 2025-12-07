@@ -1,82 +1,39 @@
-# M.U.G.E.N – Documentação Completa em Português (PT-BR)
+# Documentação M.U.G.E.N em Português (PT-BR)
 
-📘 **Guia técnico, didático e comunitário para criação de conteúdo no M.U.G.E.N**  
-Personagens • Stages • IA • Storyboards • Ferramentas
+Este repositório reúne a documentação em português brasileiro sobre o **M.U.G.E.N**, com o objetivo de **difundir conhecimento**, facilitar o aprendizado e apoiar a comunidade que estuda e utiliza o engine.
 
----
-
-## 📌 Sobre este projeto
-
-Este repositório tem como objetivo **reunir, organizar e traduzir para o português** a documentação essencial do **M.U.G.E.N**, baseada na documentação oficial da Elecbyte, em experiências práticas da comunidade e em materiais educativos modernos.
-
-O foco é **didático e progressivo**, servindo tanto para:
-- iniciantes absolutos no MUGEN  
-- criadores intermediários  
-- usuários avançados que querem uma referência organizada  
-
-🚫 **Sem fins lucrativos**  
-🎓 **Voltado à comunidade**  
-🇧🇷 **Produzido em Português (PT-BR)**
+O foco do projeto é **educacional e comunitário**.
 
 ---
 
-## 🎮 O que é M.U.G.E.N?
+## 📄 Formato de distribuição
 
-M.U.G.E.N é um engine 2D de luta desenvolvido pela **Elecbyte**, extremamente flexível, que permite a criação completa de:
-- personagens  
-- cenários (stages)  
-- interfaces  
-- animações  
-- inteligência artificial  
-- storyboards (intros, endings, cutscenes)
+O conteúdo é disponibilizado **publicamente em formato PDF**, garantindo:
 
-Este projeto **não é oficial da Elecbyte** e não substitui a documentação original — ele **complementa e facilita o aprendizado**.
+- acesso livre ao material
+- preservação da autoria
+- integridade editorial
+- facilidade de leitura e distribuição
 
----
+Os **arquivos-fonte editáveis** (`.tex`, estilos, fontes, arte e estrutura interna) **não fazem parte do repositório público neste momento**.
 
-## 🧱 Estrutura da Documentação
+Essa decisão visa equilibrar:
+- compartilhamento de conhecimento  
+- proteção contra reutilização indevida e reempacotamento não autorizado  
+- sustentabilidade do projeto  
 
-A documentação está organizada em **partes temáticas**, inspiradas na estrutura oficial do MUGEN, porém com um **fluxo mais pedagógico**:
-
-### 🔹 Fundamentos do M.U.G.E.N
-- Introdução ao engine
-- Coordinate Space
-- Localization
-- Conceitos-base do funcionamento interno
-
-### 🔹 Criação de Personagens
-- Estrutura de arquivos (`.def`, `.cns`, `.air`, `.cmd`)
-- State Controls
-- Triggers
-- Loop Guide
-- Inteligência Artificial (AIR)
-
-### 🔹 Elementos Visuais
-- Sprites (`.spr`)
-- Ferramentas como SPRMake2
-- Fonts
-- Backgrounds (stages e BGS)
-
-### 🔹 Conteúdo Especial
-- Storyboards
-- Intros, win screens e endings
-- Organização visual avançada
-
-### 🔹 Apêndices
-- Ferramentas recomendadas
-- Recursos úteis
-- Troubleshooting (erros comuns e soluções)
-- Glossário técnico
+Compartilhar o conteúdo **não implica compartilhar todo o meio de produção**.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 📚 Conteúdo
 
-- **LaTeX (classe `book`)**
-- **XeLaTeX** (quando necessário)
-- **TikZ** (diagramas e ilustrações)
-- **Git + GitHub** (versionamento)
-- **Overleaf** (edição colaborativa)
+- Documentação técnica do M.U.G.E.N
+- Guias introdutórios e avançados
+- Notas explicativas em português (PT-BR)
+- Material organizado para estudo e referência
+
+> O projeto é voltado a estudantes, desenvolvedores, artistas e curiosos que desejam compreender melhor o funcionamento do M.U.G.E.N.
 
 ---
 
